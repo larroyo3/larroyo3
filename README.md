@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas Arroyo</h1>
+<h1 align="center">Hi 👋, I'm Lucas Arroyo </h1>
 <h3 align="center">a student at Epitech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larroyo3&label=Profile%20views&color=058547&style=flat" alt="larroyo3" /> </p>
