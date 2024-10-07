@@ -46,6 +46,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/larroyo3/larroyo3/output/snake.svg" alt="Snake animation" />
-
 ###
