@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋 ! My name is Lucas Arroyo and I'm a Mobile Developer !</h2>
-🔭 I’m currently working on ![Thurii](https://thurii.fr/)
+🔭 I’m currently working on [Thurii](https://thurii.fr/)
 
 ###
 </br>
