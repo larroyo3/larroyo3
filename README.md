@@ -6,16 +6,16 @@
 
 🚀 Some of my main projects:
 
-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
+- 🔭 I’m currently working on 3 mobile applications : **KmpSampleProject**, **Moviit**, and on [**Thurii**](https://thurii.fr/)
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose)](https://github.com/larroyo3/Moviit-Compose#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose)](https://github.com/larroyo3/Moviit-Compose#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject)](https://github.com/larroyo3/KMPSampleProject#gh-light-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject)](https://github.com/larroyo3/KMPSampleProject#gh-dark-mode-only)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+</div>
 
 ---
 
