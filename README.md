@@ -10,9 +10,7 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CyrisXD&repo=Pwnagetty)](https://github.com/CyrisXD/Pwnagetty)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
