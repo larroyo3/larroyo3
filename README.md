@@ -2,6 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=larroyo3&icon=0&color=0)](https://visitcount.itsvg.in)
 <a href="https://github.com/larroyo3?tab=repositories"><img src="https://img.shields.io/github/stars/larroyo3?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+[![GitHub Stars](https://img.shields.io/github/stars/larroyo3?logo=github&style=for-the-badge)](https://github.com/larroyo3)
 
 
 ### My name is Lucas Arroyo and I'm a Mobile Developer
