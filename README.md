@@ -21,13 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=larroyo3&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="175" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larroyo3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="175" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="175" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9uMXp0NTE2bjRzbGtiY2VodDd2eXpnNTRocGttajVlNmprcnV4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
 ###
@@ -50,24 +43,7 @@
 
 <p><a target="_blank" href="https://www.linkedin.com/in/lucas-arroyo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" height="40" /></a> <a target="_blank" href="https://www.instagram.com/acyll_studios" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" height="40"/></a> <a target="_blank" href="https://twitter.com/acyll_studios" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" height="40" /></a><a target="_blank" href="https://buymeacoffee.com/acyll" style="display: inline-block;"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="40" /></a></p>
 
-
 ###
-
----
-<div align="center">
-
-  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-</div>
-
-###
-
----
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larroyo3&theme=github_dark)
-
-###
----
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=larroyo3&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -75,10 +51,18 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=larroyo3&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
+![](https://github-readme-streak-stats.herokuapp.com?user=larroyo3&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larroyo3&theme=github_dark)
+
 ###
 ---
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  
+</div>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
