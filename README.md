@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 ! My name is Lucas Arroyo and I'm a Mobile Developer !</h1>
+<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ! My name is Lucas Arroyo and I'm a Mobile Developer </h1>
 
 [![](https://visitcount.itsvg.in/api?id=larroyo3&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -55,4 +55,10 @@
 
   ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake-dark.svg)
 </div>
+
+###
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larroyo3&theme=github_dark)
 
