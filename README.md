@@ -36,3 +36,8 @@
 
 ###
 
+<div align="center">
+
+  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake-dark.svg)
+</div>
+
