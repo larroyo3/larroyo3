@@ -11,9 +11,9 @@
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose)](https://github.com/larroyo3/Moviit-Compose#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose)](https://github.com/larroyo3/Moviit-Compose#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose&theme=github_dark)](https://github.com/larroyo3/Moviit-Compose#gh-dark-mode-only)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject)](https://github.com/larroyo3/KMPSampleProject#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject)](https://github.com/larroyo3/KMPSampleProject#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject&theme=github_dark)](https://github.com/larroyo3/KMPSampleProject#gh-dark-mode-only)
 
 </div>
 
