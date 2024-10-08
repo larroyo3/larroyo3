@@ -55,7 +55,8 @@
 ---
 <div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![Snake animation](https://raw.githubusercontent.com/larroyo3/larroyo3/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
 
 ###
