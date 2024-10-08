@@ -1,6 +1,20 @@
-<h2 align="left">Hi 👋 ! My name is Lucas Arroyo and I'm a Mobile Developer !</h2>
+<h1 align="left">Hi 👋 ! My name is Lucas Arroyo and I'm a Mobile Developer !</h1>
 
 [![](https://visitcount.itsvg.in/api?id=larroyo3&icon=0&color=0)](https://visitcount.itsvg.in)
+
+- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+ and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
+
+🚀 Some of my main projects:
+
+- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
+
+<div align="center">
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=node-app)](https://github.com/minoveaz/node-app)
+</div>
+
+---
 
 ###
 
