@@ -1,14 +1,8 @@
-<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ! My name is Lucas Arroyo and I'm a Mobile Developer </h1>
+<h1 align="left">Hi, I'm Lucas Arroyo and I'm a Mobile Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
-[![](https://visitcount.itsvg.in/api?id=larroyo3&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://github.com/larroyo3?tab=repositories"><img src="https://img.shields.io/github/stars/larroyo3?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
-[![GitHub Stars](https://img.shields.io/github/stars/larroyo3?logo=github&style=for-the-badge)](https://github.com/larroyo3)
-<a href="https://github.com/larroyo3/larroyo3" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/larroyo3/larroyo3?label=profile%20updated&style=flat-square"></a>
+[![](https://visitcount.itsvg.in/api?id=larroyo3&icon=0&color=0)](https://visitcount.itsvg.in)</br><a href="https://github.com/larroyo3/larroyo3" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/larroyo3/larroyo3?label=profile%20updated&style=flat&logo=github"></a>
 
-
-### My name is Lucas Arroyo and I'm a Mobile Developer
-- 🌱 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
- and Databases (MongoDB). I like to use GCP for Cloud Solutions. :octocat:
+- 🌱 I’m currently specialized in **native Android development** using **Jetpack Compose** and **cross-platform development with Kotlin Multiplatform (KMP)** utilizing **Jetpack Compose and SwiftUI**. I am available for **freelance** projects and can be contacted via the information provided below in the README. :octocat:
 
 🚀 Some of my main projects:
 
