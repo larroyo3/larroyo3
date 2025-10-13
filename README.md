@@ -6,7 +6,7 @@
 
 🚀 Some of my main projects:
 
-- 🔭 I’m currently working on 3 mobile applications : **KmpSampleProject**, **Moviit**, and [**Thurii**](https://thurii.fr/)
+- 🔭 I’m currently working on 3 mobile applications : **KmpSampleProject**, **Alea**, and [**Thurii**](https://thurii.fr/)
 
 <div align="center">
 
