@@ -21,7 +21,7 @@
 
 ###
 
-<img align="right" height="175" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9uMXp0NTE2bjRzbGtiY2VodDd2eXpnNTRocGttajVlNmprcnV4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+<img align="right" width="325" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9uMXp0NTE2bjRzbGtiY2VodDd2eXpnNTRocGttajVlNmprcnV4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 
 ###
 
@@ -45,9 +45,9 @@
 
 ###
 
-<p align="center">
-  <img width="55%" src ="https://github-readme-streak-stats.herokuapp.com?user=larroyo3&theme=darcula&hide_border=true&background=FFFFFF00&mode=weekly">
-  <img width="35%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=larroyo3&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+<p align="left">
+  <img width="37%" src ="https://github-readme-stats.vercel.app/api?username=larroyo3&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+  <img width="28%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=larroyo3&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 ###
