@@ -1,21 +1,14 @@
 <h1 align="left">Hi, I'm Lucas Arroyo and I'm a Mobile Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
-[![](https://visitcount.itsvg.in/api?id=larroyo3&icon=0&color=0)](https://visitcount.itsvg.in)</br><a href="https://github.com/larroyo3/larroyo3" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/larroyo3/larroyo3?label=profile%20updated&style=flat&logo=github"></a>
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/larroyo3/larroyo3?label=profile%20updated&style=flat&logo=github"></a>
+[![](https://komarev.com/ghpvc/?username=larroyo3&color=0e75b6&style=flat&label=profile+views)](https://github.com/larroyo3)</br><a href="https://github.com/larroyo3/larroyo3" target="_blank">
 
-- 🌱 I’m currently specialized in **native Android development** using **Jetpack Compose** and **cross-platform development with Kotlin Multiplatform (KMP)** utilizing **Jetpack Compose and SwiftUI**. I am available for **freelance** projects and can be contacted via the information provided below in the README. :octocat:
+🌱 I’m currently specialized in native Android development using Jetpack Compose and cross-platform development with Kotlin Multiplatform (KMP) utilizing Jetpack Compose and SwiftUI. I am available for freelance projects and can be contacted via the information provided below in the README. :octocat:
+
 
 🚀 Some of my main projects:
 
-- 🔭 I’m currently working on 3 mobile applications : **KmpSampleProject**, **Alea**, and [**Thurii**](https://thurii.fr/)
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose)](https://github.com/larroyo3/Moviit-Compose#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=Moviit-Compose&theme=github_dark)](https://github.com/larroyo3/Moviit-Compose#gh-dark-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject)](https://github.com/larroyo3/KMPSampleProject#gh-light-mode-only)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larroyo3&repo=KMPSampleProject&theme=github_dark)](https://github.com/larroyo3/KMPSampleProject#gh-dark-mode-only)
-
-</div>
+- 🔭 New mobile apps launching soon — stay tuned!
 
 ---
 
@@ -41,13 +34,13 @@
 
 ###
 
-<p><a target="_blank" href="https://www.linkedin.com/in/lucas-arroyo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" height="40" /></a> <a target="_blank" href="https://www.instagram.com/acyll_studios" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" height="40"/></a> <a target="_blank" href="https://twitter.com/acyll_studios" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" height="40" /></a><a target="_blank" href="https://buymeacoffee.com/acyll" style="display: inline-block;"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="40" /></a></p>
+<p><a target="_blank" href="https://larroyo3.github.io/portfolio/" style="display: inline-block;"><img src="https://img.shields.io/badge/portfolio-logo?style=for-the-badge&logo=googlechrome&logoColor=white&color=%23222222" alt="portfolio" height="40" /></a> <a target="_blank" href="https://www.linkedin.com/in/lucas-arroyo" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" height="40" /></a> <a target="_blank" href="https://www.instagram.com/acyll_studios" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" height="40"/></a> <a target="_blank" href="https://twitter.com/acyll_studios" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" height="40" /></a><a target="_blank" href="https://buymeacoffee.com/acyll" style="display: inline-block;"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" height="40" /></a></p>
 
 ###
 
 <p align="left">
-  <img width="37%" src ="https://github-readme-stats.vercel.app/api?username=larroyo3&theme=dracula&show_icons=true&hide_border=true&count_private=true">
-  <img width="28%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=larroyo3&theme=dracula&show_icons=true&hide_border=true&layout=compact">
+  <img width="37%" src ="https://github-stats-extended.vercel.app/api?username=larroyo3&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+  <img width="28%" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=larroyo3&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 ###
