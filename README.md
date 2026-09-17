@@ -1,13 +1,19 @@
 <h1 align="left">Hi, I'm Lucas Arroyo and I'm a Mobile Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
 
-<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/larroyo3/larroyo3?label=profile%20updated&style=flat&logo=github"></a>
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/larroyo3/larroyo3?label=profile%20updated&style=flat&logo=github"></a> <img alt="Status" src="https://img.shields.io/badge/status-available%20for%20freelance-brightgreen?style=flat">
 [![](https://komarev.com/ghpvc/?username=larroyo3&color=0e75b6&style=flat&label=profile+views)](https://github.com/larroyo3)</br><a href="https://github.com/larroyo3/larroyo3" target="_blank">
 
-🌱 I’m currently specialized in native Android development using Jetpack Compose and cross-platform development with Kotlin Multiplatform (KMP) utilizing Jetpack Compose and SwiftUI. I am available for freelance projects and can be contacted via the information provided below in the README. :octocat:
+🌱 I’m currently specialized in native Android development using Jetpack Compose and cross-platform development with Kotlin Multiplatform (KMP) utilizing Jetpack Compose and SwiftUI. I am available for freelance projects, contact info below. :octocat:
+
+> "Very satisfied with this first collaboration on an iOS/Android app. Lucas's work is structured, and he was available and attentive throughout the project." — **Nicolas G.**, client
+
+More reviews on [my portfolio](https://larroyo3.github.io/portfolio/#experience).
 
 
+📩 **Got a mobile project in mind?** [Email me](mailto:lucas.arroyo70@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/lucas-arroyo) — I usually reply within 1h.
+
+<br></br>
 🚀 Some of my main projects:
-
 - 🔭 New mobile apps launching soon — stay tuned!
 
 ---
